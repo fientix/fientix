@@ -12,7 +12,7 @@
 
 #### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,python,js,html,css,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 #### 💻 Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,python,js,html,css,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ---
