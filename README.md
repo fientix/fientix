@@ -1,9 +1,5 @@
 <h1 align="center">🚀 Welcome to My Profile / Profilime Hoş Geldiniz!</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🌐 English
@@ -32,7 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats / GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fientix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
