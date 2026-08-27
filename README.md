@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hello+World!+👋;Software+Developer;Cybersecurity+Enthusiast;Merhaba+Dünya!+👋;Yazılım+Geliştirici;Siber+Güvenlik+Meraklısı" alt="Typing SVG" />
-</div>
+<h1 align="center">🚀 Welcome to My Profile / Profilime Hoş Geldiniz!</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
