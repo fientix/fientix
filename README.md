@@ -9,9 +9,9 @@
 ![PoC Development](https://img.shields.io/badge/PoC_Development-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Learning Assembly](https://img.shields.io/badge/Learning-Assembly-0d1117?style=for-the-badge&logo=gnu&logoColor=A42E2B)
 
-![Profile Views](https://komarev.com/ghpvc/?username=fientix&style=flat-square&color=2ea043&label=views)
+![Profile Views](https://hits.sh/github.com/fientix.svg?style=flat-square&label=views&color=2ea043&labelColor=30363d)
 ![Followers](https://img.shields.io/github/followers/fientix?style=flat-square&logo=github&color=2ea043)
-![Repos](https://img.shields.io/github/repositories/fientix?style=flat-square&logo=github&color=2ea043)
+![Status](https://img.shields.io/badge/status-always_learning-2ea043?style=flat-square)
 
 </div>
 
