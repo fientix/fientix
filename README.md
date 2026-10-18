@@ -65,13 +65,7 @@
 
 ---
 
-### 📫 İletişim
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-fientix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fientix)
-[![Discord](https://img.shields.io/badge/Discord-fientix-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Telegram](https://img.shields.io/badge/Telegram-fientix-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fientix)
 
 <br/>
 
