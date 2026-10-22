@@ -7,7 +7,6 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-0d1117?style=for-the-badge&logo=ghidra&logoColor=white)
 ![PoC Development](https://img.shields.io/badge/PoC_Development-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![Learning Assembly](https://img.shields.io/badge/Learning-Assembly-0d1117?style=for-the-badge&logo=gnu&logoColor=A42E2B)
 
 ![Profile Views](https://hits.sh/github.com/fientix.svg?style=flat-square&label=views&color=2ea043&labelColor=30363d)
 ![Followers](https://img.shields.io/github/followers/fientix?style=flat-square&logo=github&color=2ea043)
@@ -31,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=asm,c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=assembly,c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
 
 <br/>
 
