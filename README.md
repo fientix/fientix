@@ -30,10 +30,8 @@
 
 <div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nasm/nasm-original.svg" width="32" height="32" alt="assembly" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css&theme=dark" alt="languages" style="vertical-align: middle;" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="assembly" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
 
 <br/>
 
