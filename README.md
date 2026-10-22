@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=assembly,c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=asm,c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
 
 <br/>
 
