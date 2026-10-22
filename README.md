@@ -30,7 +30,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=asm,c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="assembly" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
 
 <br/>
 
