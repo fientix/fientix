@@ -22,7 +22,7 @@
 - 🔐 **Siber güvenlik** alanıyla ilgileniyorum
 - 🧪 Zafiyetleri anlamak ve **PoC geliştirmek** en sevdiğim işlerden
 - ⚙️ Düşük seviyeli programlama ve tersine mühendislikle ilgileniyorum
-- 📚 Şu an **Assembly** öğreniyorum
+- 📚 Şu an kendimi **Malware Development** alanında geliştiriyorum.
 - 🎯 Hedefim: saldırı mantığını iyi öğrenip güvenlik tarafında güçlü olmak
 
 ---
@@ -31,11 +31,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=asm,c,cpp,cs,py,js,html,css&theme=dark" alt="languages" />
 
 <br/>
-
-![Assembly](https://img.shields.io/badge/Assembly-Learning-6e4c9e?style=flat-square&logo=gnu&logoColor=white)
 
 </div>
 
